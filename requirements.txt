@@ -5,4 +5,4 @@ seaborn
 openpyxl
 numpy
 PyYAML
-streamlit-authenticator
+streamlit-authenticator==0.2.1
